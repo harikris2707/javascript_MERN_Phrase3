@@ -1,0 +1,70 @@
+                                                      JAVA SCRIPT(js)
+                                                      ----------------
+LITERALS:
+---------
+      
+      =>"console.log" it is a print statement
+      =>it is  also a LITERALS
+------------------------------------------------------------------------------------------------------------------------------
+VARIABLES:
+----------
+
+      => Refers in variable.js
+      output is
+          
+         33
+         2
+         3
+         4
+         undefined
+         43
+         10.510
+         20.5 
+    =>LET variable;
+      => WE CAN USE THIS VARIABLE ALSO TO DECLARE A VARIABLE
+         let a = 3;
+         a=4;
+         a=5;
+         console.log(a);
+         let a=15
+         console.log(a); 
+         // if we are put likee this declaring a variable in twice is shows syntax error
+    => BLOCK VARIABLE;
+        => WE CAN USE THIS VARIABLE ALSO TO DECLARE A VARIABLE but in one block 
+    => CONST VARIABLE;
+       => WE CAN USE THIS VARIABLE ALSO TO DECLARE A VARIABLE but we can't change value of the variable 
+       => const x
+          x=25
+          it  also gives error     
+-----------------------------------------------------------------------------------------------------------------------------
+DATA TYPES:
+-----------
+
+      =>it have two types 
+        1>primitive
+        2>non primitive 
+        refer in chatgpt
+------------------------------------------------------------------------------------------------------------------------------
+bitwise operator
+---------------- 
+       =>six types
+        1) AND
+        2) OR 
+        3)EX-OR 
+        4)RIGHT SWIFT
+        5) LEFT SWIFT
+        6) NEGATION
+    RIGHT SWIFT
+    -----------   
+       
+       10>>2=10/2**2
+       10>>3=10/2**3
+       IT do's division
+    
+    LEFT SWIFT
+    -----------
+
+       10<<2=10*(2**2)
+       10<<3=10*(2**3)    
+       IT DO'S division
+=============================================================================================================================

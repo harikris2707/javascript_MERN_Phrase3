@@ -1,0 +1,31 @@
+var a=33;
+console.log(a);
+var $=2;
+console.log($);
+var If=3;
+console.log(If);
+var _=4;
+console.log(_);
+var c;
+console.log(c);
+var a;
+var b=10;
+var c=a+b;
+console.log(c);
+var a="10.5";
+var b=10;
+var c=a+b;
+console.log(c);
+var a=10.5;
+var b=10;
+var c=a+b;
+console.log(c);
+let d=3;
+a=4;
+a=5;
+console.log(d);
+ a=15
+console.log(a);
+const e=10;
+e=20
+console.log(e);
